@@ -15,14 +15,14 @@
 ##### -Questionaire Data
 ###### the first investigation
 ![DATA](DATA1.png)
-I made a investigation paper and over one hundred of pepole(including people from age 18-80) filled the questionaire
+I made a investigation paper and over one hundred of pepole(including people from age 18-80) filled the questionaire, according to the data I made a conclusion for ⬇️
 
-
-
-##### -The aspects for further renovation
-
-
-
+##### -The aspects that I will inculded in my first version
+- The device should be small and portable 
+- It should have high precision
+- It cannot affect users' privacy
+- It should be safe
+- It should be easy for use
 
 ---
 ##### Feedbacks
