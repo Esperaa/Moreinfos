@@ -1,4 +1,4 @@
-config.yml
+
 ## Descriptions here for outdoor fall-detection device
 
 ### version 1.0
