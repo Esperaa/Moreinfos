@@ -37,3 +37,4 @@ Want to tell me something about the product?/ Want to have one?
 ###### ➡️[Click here to do the questionaire!](https://v.wjx.cn/vm/Q2Frjo2.aspx#)📝
 ---
 #### helping map
+![helpingmap](helpingmap.png)
