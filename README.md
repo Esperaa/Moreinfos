@@ -13,8 +13,9 @@
 
 
 ##### -Questionaire Data
+###### the first investigation
 ![DATA](DATA1.png)
-
+I made a investigation paper and over one hundred of pepole(including people from age 18-80) filled the questionaire
 
 
 
