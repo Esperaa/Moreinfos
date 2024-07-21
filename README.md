@@ -6,6 +6,8 @@
 
 ### version 2.0
 
+Changes are made on software of the device, based on the fbs from users.
+Changes include: 
 
 
 ---
