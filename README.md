@@ -9,6 +9,8 @@
 Changes are made on software of the device, based on the fbs from users.
 Changes include: 
 
+---
+How to use? or other infos? see here!
 #### [Instruction Link! Click here!](https://esperaa.github.io/WebextensionforAutome-/)
 ---
 ⬇️Scroll down to see more info!
